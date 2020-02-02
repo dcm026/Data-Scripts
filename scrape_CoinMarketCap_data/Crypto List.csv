@@ -1,0 +1,204 @@
+Ticker,Market,Full Name,StartDate,Delisted,cmcName
+DGD,2,DigixDAO,171128,-1,digixdao
+TRX,2,TRON,171101,-1,tron
+ICX,2,ICON,180106,-1,icon
+EOS,2,EOS,171012,-1,eos
+BNB,2,Binance Coin,180804,-1,binance-coin
+NANO,2,Nano,180804,-1,nano
+IOST,2,IOST,180201,-1,iostoken
+WTC,2,Waltonchain,170828,-1,waltonchain
+VIBE,2,VIBE,180113,-1,vibe
+IOTA,2,MIOTA,180804,-1,iota
+BCPT,2,BlockMason Credit Protocol,171115,-1,blockmason
+INS,2,INS Ecosystem,180119,-1,insolar
+BRD,2,Bread,180106,-1,bread
+GXS,2,GXChain,171118,-1,gxchain
+CND,2,Cindicator,171212,-1,cindicator
+ZRX,2,0x,170914,-1,0x
+CMT,2,Comet,171206,-1,cybermiles
+BTS,2,BitShares,171122,-1,bitshares
+ELF,2,aelf,180106,-1,aelf
+POE,2,Po.et,171121,-1,poet
+KNC,2,Kyber Network,170927,-1,kyber-network
+GAS,2,Gas,170808,-1,gas
+APPC,2,AppCoins,180113,-1,appcoins
+WABI,2,WaBi,171214,-1,tael
+LEND,2,ETHLend,171213,-1,ethlend
+PPT,2,Populous,171202,-1,populous
+EDO,2,Eidoo,180106,-1,eidoo
+SNGLS,2,SingularDTV,170920,-1,singulardtv
+BCD,2,Bitcoin Diamond,171126,-1,bitcoin-diamond
+AION,2,Aion,180106,-1,aion
+QSP,2,Quantstamp,171122,-1,quantstamp
+FUEL,2,Etherparty,171124,-1,etherparty
+BQX,2,Ethos,170923,-1,ethos
+NEBL,2,Neblio,180106,-1,neblio
+TNT,2,Tierion,171123,-1,tierion
+TNB,2,Time New Bank,180106,-1,time-new-bank
+ARN,2,Aeron,171116,-1,aeron
+GTO,2,Gifto,180106,-1,gifto
+SPHR,1,Sphere,160102,-1,sphere
+EXCL,1,ExclusiveCoin,160102,-1,exclusivecoin
+GRS,3,GroestlCoin,160126,-1,groestlcoin
+VTC,1,Vertcoin,160102,-1,vertcoin
+OK,1,OKCash,160102,-1,okcash
+ZEN,3,Zencash,170607,-1,zencash
+FTC,1,Feathercoin,160102,-1,feathercoin
+LINK,2,ChainLink,170929,-1,chainlink
+OST,2,OST,180106,-1,ost
+AST,2,AirSwap,171020,-1,airswap
+ENJ,2,Enjin Coin,171104,-1,enjin-coin
+REQ,2,Request Network,171028,-1,request
+NULS,2,Nuls,171110,-1,nuls
+LRC,2,Loopring,170902,-1,loopring
+CDT,2,Blox,171117,-1,blox
+GVT,2,Genesis Vision,171117,-1,genesis-vision
+MTH,2,Monetha,171014,-1,monetha
+AMB,2,Ambrosus,171112,-1,amber
+RCN,2,Ripio Credit Network,171109,-1,ripio-credit-network
+SNM,2,SONM,170928,-1,sonm
+RDN,2,Raiden Network Token,171110,-1,raiden-network-token
+MDA,2,Moeda Loyalty Points,171006,-1,moeda-loyalty-points
+DLT,2,Agrello,171111,-1,agrello-delta
+EVX,2,Everex,171028,-1,everex
+YOYO,2,YOYOW,180804,-1,yoyow
+OAX,2,OAX,171024,-1,oax
+SYS,2,Syscoin,160102,-1,syscoin
+XEM,3,NEM,160102,-1,nem
+VRC,1,VeriCoin,160102,-1,vericoin
+GBYTE,1,Byteball Bytes,170415,-1,obyte
+CVC,2,Civic,170718,-1,civic
+GNT,3,Golem,170419,-1,golem-network-tokens
+MONA,1,MonaCoin,160102,-1,monacoin
+DCR,2,Decred,160211,-1,decred
+SC,2,Siacoin,170524,-1,siacoin
+AEON,1,Aeon,160102,-1,aeon
+VIA,3,Viacoin,160102,-1,viacoin
+XST,1,Stealth,160102,-1,stealth
+EXP,1,Expanse,160102,-1,expanse
+DOGE,2,Dogecoin,180602,-1,dogecoin
+EMC2,1,Einsteinium,160102,-1,einsteinium
+RDD,1,ReddCoin,160102,-1,reddcoin
+NXS,2,Nexus,160923,-1,nexus
+GAME,1,GameCredits,160418,-1,gamecredits
+ARDR,3,Ardor,161015,-1,ardor
+UBQ,1,Ubiq,170210,-1,ubiq
+BURST,1,Burst,160102,-1,burst
+CRW,1,Crown,170308,-1,crown
+PPC,1,Peercoin,160102,-1,peercoin
+PINK,1,PinkCoin,160102,-1,pinkcoin
+REP,3,Augur,161008,-1,augur
+LBC,1,LBRY Credit,160707,-1,library-credit
+BLK,1,BlackCoin,160102,-1,blackcoin
+IOC,1,I/O Coin,160102,-1,iocoin
+FLO,1,FlorinCoin,160102,-1,flo
+MEME,1,Memetic,160403,-1,memetic
+MUE,1,MonetaryUnit,160102,-1,monetaryunit
+SLS,1,SaluS,160122,-1,salus
+SHIFT,1,Shift,161013,-1,shift
+XMY,1,Myriad,160102,-1,myriad
+SBD,1,Steem Dollars,180804,-1,steem-dollars
+RADS,1,Radium,160128,-1,radium
+CURE,1,Curecoin,160102,-1,curecoin
+SIB,1,SIBCoin,170220,-1,sibcoin
+MER,1,Mercury,171115,-1,mercury
+UKG,1,Unikoin Gold,171231,-1,unikoin-gold
+ETH,2,Ethereum,160102,-1,ethereum
+NEO,2,NeosCoin,161028,-1,neo
+XVG,2,Verge,160219,-1,verge
+OMG,2,OmiseGO,170718,-1,omisego
+XRP,2,Ripple,160102,-1,ripple
+STRAT,3,Stratis,160812,-1,stratis
+ETC,2,Ethereum Classic,160729,-1,ethereum-classic
+LTC,2,Litecoin,160102,-1,litecoin
+XLM,2,Stellar,160102,-1,stellar
+ADA,2,Cardano,171003,-1,cardano
+ARK,3,Ark,170323,-1,ark
+QTUM,2,Qtum,170722,-1,qtum
+WAVES,3,Waves,160621,-1,waves
+ZEC,2,Zcash,161030,-1,zcash
+LSK,3,Lisk,160526,-1,lisk
+MCO,2,Monaco,170703,-1,crypto-com
+KMD,3,Komodo,170213,-1,komodo
+MTL,3,Metal,171010,-1,metal
+DASH,2,Dash,160102,-1,dash
+XMR,2,Monero,160102,-1,monero
+ADX,2,AdEx,170713,-1,adx-net
+STORJ,2,Storj,170713,-1,storj
+BAT,2,Basic Attention Token,170605,-1,basic-attention-token
+SNT,2,Status,170630,-1,status
+PIVX,3,PIVX,170213,-1,pivx
+NAV,3,NavCoin,160102,-1,nav-coin
+XZC,3,Zcoin,161022,-1,zcoin
+STEEM,3,Steem,160419,-1,steem
+RLC,2,iExec RLC,170428,-1,rlc
+DNT,2,district0x,171016,-1,district0x
+LUN,2,Lunyr,170502,-1,lunyr
+BNT,2,Bancor,190101,-1,bancor
+MANA,3,Decentraland,171015,-1,decentraland
+VIB,2,Viberate,171031,-1,viberate
+POWR,2,Power Ledger,171102,-1,power-ledger
+ENG,2,Enigma,171201,-1,enigma
+POLY,2,Polymath,180419,-1,polymath-network
+IGNIS,1,Ignis,180209,-1,ignis
+WPR,2,WePower,180425,-1,wepower
+QLC,2,QLINK,180411,-1,qlink
+WAN,2,Wanchain,180328,-1,wanchain
+STORM,2,Storm,180321,-1,storm
+ONT,2,Ontology,180318,-1,ontology
+ZIL,2,Ziliqa,180321,-1,zilliqa
+POA,2,POA Network,180303,-1,poa-network
+NCASH,2,Nucleus Vision,180303,-1,nucleus-vision
+AE,2,Aeternity,180213,-1,aeternity
+BLZ,2,Bluzelle,180209,-1,bluzelle
+LOOM,3,Loom Network,180628,-1,loom-network
+SKY,2,Skycoin,180603,-1,skycoin
+THETA,2,ThetaToken,180603,-1,theta
+IOTX,2,IoTeX,180607,-1,iotex
+TUBE,1,BitTube,180613,-1,bit-tube
+QKC,2,QuarkChain,180614,-1,quarkchain
+AGI,2,SingularityNET,180614,-1,singularitynet
+DATA,2,Streamr,180614,-1,streamr-datacoin
+TUSD,2,True USD,180321,-1,trueusd
+BTG,2,Bitcoin Gold,171025,-1,bitcoin-gold
+MORE,1,More,180804,-1,mithril-ore
+GEO,1,GeoCoin,160102,-1,geocoin
+FUN,2,FunFair,170929,-1,funfair
+KEY,2,SelfKey,180804,-1,selfkey
+NAS,2,Nebulas,180804,-1,nebulas-token
+MFT,2,Mainframe,180804,-1,mainframe
+HOT,2,Holo,180804,-1,holo
+DOCK,2,Dock,180806,-1,dock
+RVN,2,RavenCoin,180816,-1,ravencoin
+GO,2,GoChain,180901,-1,gochain
+VET,2,VeChain,180927,-1,vechain
+PAX,2,Paxos Standard Token,181003,-1,paxos-standard-token
+XHV,1,Haven,181011,-1,haven-protocol
+MITH,2,Mithril,181116,-1,mithril
+SOLVE,1,Solve.Care,181130,-1,solve
+USDS,3,StableUSD,181207,-1,stableusd
+ONG,2,Ontology Gas,190217,-1,ontology-gas
+CELR,2,Celar Token,190402,-1,celer-network
+FET,2,Fetch.AI,190402,-1,fetch
+ATOM,2,Cosmos,190508,-1,cosmos
+MATIC,2,MATIC Network,190508,-1,matic-network
+TFUEL,2,Theta Fuel,190525,-1,theta-fuel
+ERD,2,Elrond,190704,-1,elrond
+ALGO,2,Algorand,190622,-1,algorand
+FTM,2,Fantom,190611,-1,fantom
+ONE,2,Harmony,190601,-1,harmony
+MktCap,-1,MktCap,160101,-1,MktCap
+MktVol,-1,MktVol,160101,-1,MktVol
+BTC,-1,Bitcoin,160101,-1,bitcoin
+CHZ,2,Chiliz,190907,-1,chiliz
+TOMO,2,TomoChain,190826,-1,tomochain
+COCOS,2,Cocos-BCX,190823,-1,cocos-bcx
+COS,2,Contentos,190820,-1,contentos
+ANKR,2,Ankr,190724,-1,ankr
+DUSK,2,Dusk Network,190720,-1,dusk-network
+ARPA,2,ARPA Chain,191107,-1,arpa-chain
+KAVA,2,Kava,191025,-1,kava
+STX,2,Blockstack,191026,-1,blockstack
+HBAR,2,Hedera Hashgraph,190930,-1,hedera-hashgraph
+XTZ,2,Tezos,190925,-1,tezos
+BEAM,2,Beam,190922,-1,beam
