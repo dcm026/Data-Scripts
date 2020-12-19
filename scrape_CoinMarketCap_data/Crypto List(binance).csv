@@ -1,0 +1,129 @@
+Ticker,Market,Full Name,StartDate,Delisted,cmcName
+MktCap,-1,MktCap,160101,-1,MktCap
+MktVol,-1,MktVol,160101,-1,MktVol
+SYS,2,Syscoin,160102,-1,syscoin
+ETH,2,Ethereum,160102,-1,ethereum
+XRP,2,Ripple,160102,-1,ripple
+LTC,2,Litecoin,160102,-1,litecoin
+XLM,2,Stellar,160102,-1,stellar
+DASH,2,Dash,160102,-1,dash
+XMR,2,Monero,160102,-1,monero
+XEM,2,NEM,160102,-1,nem
+DCR,2,Decred,160211,-1,decred
+LSK,2,Lisk,160526,-1,lisk
+WAVES,2,Waves,160621,-1,waves
+ETC,2,Ethereum Classic,160729,-1,ethereum-classic
+STRAT,2,Stratis,160812,-1,stratis
+NEO,2,NeosCoin,161028,-1,neo
+ZEC,2,Zcash,161030,-1,zcash
+GNT,2,Golem,170419,-1,golem-network-tokens
+RLC,2,iExec RLC,170428,-1,rlc
+SC,2,Siacoin,170524,-1,siacoin
+BAT,2,Basic Attention Token,170605,-1,basic-attention-token
+ADX,2,AdEx,170713,-1,adx-net
+CVC,2,Civic,170718,-1,civic
+OMG,2,OmiseGO,170718,-1,omisego
+QTUM,2,Qtum,170722,-1,qtum
+LRC,2,Loopring,170902,-1,loopring
+ZRX,2,0x,170914,-1,0x
+SNGLS,2,SingularDTV,170920,-1,singulardtv
+BQX,2,Ethos,170923,-1,ethos
+KNC,2,Kyber Network,170927,-1,kyber-network
+LINK,2,ChainLink,170929,-1,chainlink
+ADA,2,Cardano,171003,-1,cardano
+MTL,2,Metal,171010,-1,metal
+EOS,2,EOS,171012,-1,eos
+MANA,2,Decentraland,171015,-1,decentraland
+DNT,2,district0x,171016,-1,district0x
+AST,2,AirSwap,171020,-1,airswap
+BTG,2,Bitcoin Gold,171025,-1,bitcoin-gold
+VIB,2,Viberate,171031,-1,viberate
+TRX,2,TRON,171101,-1,tron
+ENJ,2,Enjin Coin,171104,-1,enjin-coin
+AMB,2,Ambrosus,171112,-1,amber
+ICX,2,ICON,180106,-1,icon
+AION,2,Aion,180106,-1,aion
+IOST,2,IOST,180201,-1,iostoken
+BLZ,2,Bluzelle,180209,-1,bluzelle
+ONT,2,Ontology,180318,-1,ontology
+ZIL,2,Ziliqa,180321,-1,zilliqa
+WAN,2,Wanchain,180328,-1,wanchain
+POLY,2,Polymath,180419,-1,polymath-network
+DOGE,2,Dogecoin,180602,-1,dogecoin
+THETA,2,ThetaToken,180603,-1,theta
+QKC,2,QuarkChain,180614,-1,quarkchain
+LOOM,2,Loom Network,180628,-1,loom-network
+BNB,2,Binance Coin,180804,-1,binance-coin
+IOTA,2,MIOTA,180804,-1,iota
+HOT,2,Holo,180804,-1,holo
+RVN,2,RavenCoin,180816,-1,ravencoin
+VET,2,VeChain,180927,-1,vechain
+BNT,2,Bancor,190101,-1,bancor
+CELR,2,Celar Token,190402,-1,celer-network
+FET,2,Fetch.AI,190402,-1,fetch
+ATOM,2,Cosmos,190508,-1,cosmos
+MATIC,2,MATIC Network,190508,-1,matic-network
+ONE,2,Harmony,190601,-1,harmony
+FTM,2,Fantom,190611,-1,fantom
+ALGO,2,Algorand,190622,-1,algorand
+ANKR,2,Ankr,190724,-1,ankr
+TOMO,2,TomoChain,190826,-1,tomochain
+XTZ,2,Tezos,190925,-1,tezos
+HBAR,2,Hedera Hashgraph,190930,-1,hedera-hashgraph
+KAVA,2,Kava,191025,-1,kava
+STX,2,Blockstack,191026,-1,blockstack
+ARPA,2,ARPA Chain,191107,-1,arpa-chain
+YFII,2,DFI.Money,200901,-1,yearn-finance-ii
+YFI,2,yearn.finance,200809,-1,yearn-finance
+XVS,2,Venus,201006,-1,venus
+WING,2,Wing,200916,-1,wing
+WBTC,2,Wrapped Bitcoin,200831,-1,wrapped-bitcoin
+VIDT,2,VIDT Datalink,201009,-1,vidt-datalink
+UTK,2,Utrust,200930,-1,utrust
+UNI,2,UNI Coin,200917,-1,uni-coin
+UMA,2,UMA,200909,-1,uma
+TRB,2,Tellor,200827,-1,tellor
+SXP,2,Swipe,200708,-1,swipe
+SUSHI,2,SushiSwap,200901,-1,sushiswap
+STPT,2,Standard Tokenization Protocol,200325,-1,standard-tokenization-protocol
+SRM,2,Serum,200811,-1,serum
+SOL,2,Solana,200410,-1,solana
+SNX,2,Synthetix,200709,-1,synthetix-network-token
+SAND,2,The Sandbox,200814,-1,the-sandbox
+RUNE,2,THORChain,200724,-1,thorchain
+RSR,2,Reserve Rights,200825,-1,reserve-rights
+REN,2,Ren,181205,-1,ren
+PNT,2,pNetwork,200622,-1,pnetwork
+OGN,2,Origin Protocol,200109,-1,origin-protocol
+OCEAN,2,Ocean Protocol,200817,-1,ocean-protocol
+NEAR,2,NEAR Protocol,201014,-1,near-protocol
+MDT,2,Measurable Data Token,200604,-1,measurable-data-token
+LUNA,2,Terra,200819,-1,terra-luna
+LTO,2,LTO Network,200207,-1,lto-network
+KSM,2,Kusama,200902,-1,kusama
+INJ,2,Injective Protocol,201021,-1,injective-protocol
+HARD,2,HARD Protocol,201106,-1,hard-protocol
+FOR,2,The Force Protocol,201117,-1,the-force-protocol
+FLM,2,Flamingo,200917,-1,flamingo
+FIL,2,Filecoin,201015,-1,filecoin
+EGLD,2,Elrond,200903,-1,elrond-egld
+DOT,2,Polkadot,200818,-1,polkadot-new
+DIA,2,DIA,200902,-1,dia
+DGB,2,DigiByte,200602,-1,digibyte
+CTSI,2,Cartesi,200423,-1,cartesi
+CTK,2,CertiK,201027,-1,certik
+CRV,2,Curve DAO Token,200815,-1,curve-dao-token
+COTI,2,COTI,200226,-1,coti
+COMP,2,Compound,200624,-1,compound
+BZRX,2,bZx Protocol,200829,-1,bzx-protocol
+BEL,2,Bella Protocol,200915,-1,bella-protocol
+BCH,2,Bitcoin Cash,191128,-1,bitcoin-cash
+BAND,2,Band Protocol,190918,-1,band-protocol
+BAL,2,Balancer,200806,-1,balancer
+AXS,2,Axie Infinity,201104,-1,axie-infinity
+AVAX,2,Avalanche,200922,-1,avalanche
+AVA,2,Travala.com,200805,-1,travala
+AUDIO,2,Audius,201023,-1,audius
+ANT,2,Aragon,200813,-1,aragon
+ALPHA,2,Alpha Finance Lab,201010,-1,alpha-finance-lab
+AAVE,2,Aave,201015,-1,aave
